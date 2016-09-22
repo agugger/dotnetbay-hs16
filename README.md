@@ -29,8 +29,8 @@ The following products / tools are needed to contribute / fork.
 * NCrunch [http://www.ncrunch.net/](http://www.ncrunch.net/)
 
 ## Authors
-* Michael Schnyder
-* Martin Kropp
+* Adrian Gugger
+* David Aellen
 
 ## License
 Licensed under the MIT License
